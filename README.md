@@ -1,2 +1,2 @@
 # deep-learning-project
-Project developed by Matteo Beltrami (@matteobeltrami), Pietro Bologna (@bolognapietro), and Christian Sassi for the Deep Learning course.
+![Dogs Typing](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
