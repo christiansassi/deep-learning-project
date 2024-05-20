@@ -35,9 +35,7 @@ inputs = processor(images=image, return_tensors="pt")
 with torch.no_grad():
     outputs = model(**inputs)
 
-outputs.logits.argmax(-1).item()
-
-outputs.logits.shape
+predicted_class_idx = outputs.logits.argmax(-1).item()
 
 # Load the class labels (ImageNet)
 labels_url = "https://raw.githubusercontent.com/anishathalye/imagenet-simple-labels/master/imagenet-simple-labels.json"
