@@ -40,3 +40,13 @@ $$ L(w; x) = H(\bar{p}(\cdot | x;w)) = -\sum_{y \in Y} \bar{p}(y | x;w) \text{lo
    cd deep_learning_project
    ```
 2. Upload the notebook `deep_learning.ipynb` on [Google Colab](https://colab.research.google.com/). *NOTE: Make sure you use the T4 GPU*.
+
+# Contacts
+
+Matteo Beltrami - [matteo.beltrami-1@studenti.unitn.it](mailto:pietro.bologna@studenti.unitn.it)
+
+Pietro Bologna - [luca.pedercini@studenti.unitn.it](mailto:luca.pedercini@studenti.unitn.it)
+
+Christian Sassi - [christian.sassi@studenti.unitn.it](mailto:christian.sassi@studenti.unitn.it)
+
+<a href="https://www.unitn.it/"><img src="assets/unitn-logo.png" width="300px"></a>
