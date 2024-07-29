@@ -45,7 +45,7 @@ $$ L(w; x) = H(\bar{p}(\cdot | x;w)) = -\sum_{y \in Y} \bar{p}(y | x;w) \text{lo
 
 Matteo Beltrami - [matteo.beltrami-1@studenti.unitn.it](mailto:pietro.bologna@studenti.unitn.it)
 
-Pietro Bologna - [luca.pedercini@studenti.unitn.it](mailto:luca.pedercini@studenti.unitn.it)
+Pietro Bologna - [pietro.bologna@studenti.unitn.it](mailto:pietro.bologna@studenti.unitn.it)
 
 Christian Sassi - [christian.sassi@studenti.unitn.it](mailto:christian.sassi@studenti.unitn.it)
 
